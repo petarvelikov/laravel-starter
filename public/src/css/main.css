@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#page-footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+    color: lightblue;
+    font-weight: bold;
+}
+
+.delete-item-form {
+    display: inline-block;
+}
+
+
+
+/* OTHER */
+
+/* css bootstrap addons - btn-xs */
+.btn-group-xs > .btn, .btn-xs {
+  padding: .4rem .4rem;
+  font-size: .875rem;
+  line-height: .5;
+  border-radius: .2rem;
+}
